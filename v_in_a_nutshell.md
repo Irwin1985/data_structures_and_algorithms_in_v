@@ -1,5 +1,23 @@
-# Algoritmos y Estructuras de datos en V
+## Características de V
 
+- Sintaxis similar a C/Go
+- Compilación a código nativo
+- V no tiene clases, en su lugar usa estructuras con métodos
+- V usa interfaces
+- V no implementa herencia, en su lugar permite structuras embebidas
+- Las funciones en V son ciudadanas de primera clase
+- Las funciones pueden retornar múltiples valores
+- V posee Closures _(aunque no están disponibles para Windows)_
+- V soporta concurrencia
+- Simplicidad: el lenguaje se puede aprender en menos de una hora.
+- Compilación Rápida
+- Alto rendimiento: tan rápido como C _(de hecho V compila a C en su backend)_
+- Seguridad: no hay datos nulos, no hay variables globales ni comportamientos indefinidos, es inmutable por defecto.
+- Transpilación de C a V
+- Gestión de memoria innovadora
+- Librerías gráficas para distintas plataformas
+- Web framework incluído
+- ORM incluído
 
 ## Sintaxis Básica
 
