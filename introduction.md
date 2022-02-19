@@ -70,10 +70,9 @@ Necesitamos preparar un omelette y para ello debemos seguir los siguientes pasos
 
 1. Conseguir un sartén
 2. Conseguir aceite
-	a. Tenemos aceite en la cocina?
-		- Sí: poner el aceite en la sartén
-		- No: quieres comprar aceite?
-			- Sí: ir a la tienda a por aceite.
-			- No: deja todo y vete a dormir.
+  a. Tenemos aceite en la cocina?
+    - Sí: poner el aceite en la sartén
+    - No: quieres comprar aceite?
+    - Sí: ir a la tienda a por aceite.
+    - No: deja todo y vete a dormir.
 3. Encender la cocina, etc...
-
