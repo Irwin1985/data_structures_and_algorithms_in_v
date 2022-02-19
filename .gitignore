@@ -1,0 +1,9 @@
+# Binaries for programs and plugins
+main
+data_structures_and_algorithms_in_v
+*.exe
+*.exe~
+*.so
+*.dylib
+*.dll
+vls.log
