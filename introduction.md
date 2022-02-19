@@ -76,3 +76,15 @@ Necesitamos preparar un omelette y para ello debemos seguir los siguientes pasos
     - Sí: ir a la tienda a por aceite.
     - No: deja todo y vete a dormir.
 3. Encender la cocina, etc...
+
+Lo que estamos haciendo es, resolver un problema _(preparar el omelette)_ paso a paso. La definición formal de un algoritmo es: _*un conjunto de instrucciones no ambiguas que se deben seguir paso a paso con la finalidad de resolver un problema.*_
+
+Analizar la eficiencia de un algoritmo es muy fácil, solo tenemos que responder 2 preguntas:
+
+1. ¿Cuántos pasos se necesitaron para resolver el problema?
+2. ¿Cuántos recursos (memoria/tiempo) se necesitaron para resolver el problema?
+
+
+## ¿Por qué puñetas hay que analizar un algoritmo?
+
+Porque pueden existir muchas formas de resolver una tarea pero, ¿Cuál de todas es la más eficiente?, por ejemplo: para ir de Madrid a Sevilla puedes hacerlo por tierra, avión, tren, o por qué no, en bicicleta. Dependiendo de la disponibilidad y la conveniencia, elegiremos el medio de transporte que mejor se adapte. De forma similar ocurre en la computación, múltiples algoritmos están disponibles para resolver un problema _(por ejemplo: un problema de ordenamiento se puede resolver con algoritmos como insertion sort, selection sort, quick sort, etc)_. Por lo tanto el análisis de un algoritmo nos ayuda a determinar la eficiencia de cada uno en terminos de tiempo con respecto a un problema.
