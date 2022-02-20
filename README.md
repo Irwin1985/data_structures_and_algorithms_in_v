@@ -6,3 +6,8 @@ Este repositorio es acerca de como escribir algoritmos y crear estructuras de da
 
 - [Un vistazo a VLang](v_in_a_nutshell.md)
 - [Intruducción](introduction.md)
+- [Recursión y Retroceso](recursion_retroceso.md)
+- [Búsqueda Binaria](binary_search.md)
+- [Bubble Sort](bubble_sort.md)
+- [Selection Sort](selection_sort.md)
+- [Insertion Sort](insertion_sort.md)
